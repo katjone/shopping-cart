@@ -24,6 +24,6 @@ In our last project, we worked on creating a static landing page. In this projec
 * So far, our programs have reset their variables as soon as the page is refreshed, so we don't have any data that persists. Modern browsers provide us with `localStorage`, a lightweight option for us to save information in the browser that persists through page refreshes. Implement `localStorage` to save our shopping list.
 
 ### Resources
-* [jQuery data() function](https://api.jquery.com/jquery.data/)
-* [jQuery Effects](https://api.jquery.com/category/effects/)
+[//]: # * [jQuery data() function](https://api.jquery.com/jquery.data/)
+[//]: # * [jQuery Effects](https://api.jquery.com/category/effects/)
 * [MDN Reference for LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
