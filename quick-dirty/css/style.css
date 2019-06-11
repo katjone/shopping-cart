@@ -1,0 +1,48 @@
+.row, .column {
+    box-sizing: border-box;
+}
+
+
+.row {
+    /* border: 3px solid red; */
+    background: gold;
+    text-align: center;
+}
+.heading {
+    float: left;
+    width: 50%;
+    background: pink;  
+}
+.column {
+    border: 3px solid red;
+    float: left;
+    width: 50%;
+}
+.cats, .shopping-cart {
+    height: 600px;
+}
+
+.shop {
+    background: blue;;
+}
+.clearfix {
+    overflow: auto;
+}
+
+.column-1 { width: 8.33%; }
+.column-2 { width: 16.66%; }
+.column-3 { width: 25%; }
+.column-4 { width: 33.33%; }
+.column-5 { width: 41.66%; }
+.column-6 { width: 50%; }
+.column-7 { width: 58.33%; }
+.column-8 { width: 66.66%; }
+.column-9 { width: 75%; }
+.column-10 { width: 83.33%; }
+.column-11 { width: 91.66%; }
+.column-12 { width: 100%; }
+
+img {
+    height: 100px;
+    width: 100px;
+}
